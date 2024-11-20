@@ -1,4 +1,4 @@
-# solar-sytem
+# solar-system
 
 
 ## Credits:
